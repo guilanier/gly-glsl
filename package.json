@@ -1,0 +1,25 @@
+{
+  "name": "gly-glsl",
+  "version": "0.0.1",
+  "description": "various glsl snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilanier/gly-glsl.git"
+  },
+  "keywords": [
+    "glsl",
+    "gl",
+    "snippets",
+    "javascript"
+  ],
+  "author": "glanier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilanier/gly-glsl/issues"
+  },
+  "homepage": "https://github.com/guilanier/gly-glsl#readme"
+}
