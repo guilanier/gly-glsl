@@ -14,12 +14,16 @@
     "glsl",
     "gl",
     "snippets",
-    "javascript"
+    "javascript",
+    "shader"
   ],
   "author": "glanier",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/guilanier/gly-glsl/issues"
   },
-  "homepage": "https://github.com/guilanier/gly-glsl#readme"
+  "homepage": "https://github.com/guilanier/gly-glsl#readme",
+  "dependencies": {
+    "glslify": "^7.1.1"
+  }
 }
